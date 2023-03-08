@@ -1,0 +1,11 @@
+from https://www.youtube.com/watch?v=Lag9Pj_33hM
+original code on AppOriginal.jsx
+Other 3 request API to be entered in browser.
+App.jsx, AppOjK.jsx, AppOK.jsx
+The 3 are similar. Small isse requesting API Key 2 or 3 times. also be good to hide the api key, i.e. show "****" but not important
+
+to run use:
+npm run dev
+
+Next task could be to deploy on web.
+
