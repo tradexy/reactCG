@@ -43,11 +43,11 @@ function App() {
 
     const systemMessage = {
       role: "system",
-      content: "Explain like I am a 10 years experience software engineer."
+      content: "You are a friendly chatbot, explain using spanglish."
     };
 
     const apiRequestBody = {
-      "model": "gpt-3.5-turbo",
+      "model": "gpt-4",
       "messages": [
         systemMessage,
         ...apiMessages
