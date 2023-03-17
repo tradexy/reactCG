@@ -43,7 +43,7 @@ function App() {
 
     const systemMessage = {
       role: "system",
-      content: "You are a friendly chatbot, explain using spanglish."
+      content: "You are a computer science teacher and you want to explain concepts using python code and you will often come up with a python example to explain a concept and your exaplnations are clear and fun."
     };
 
     const apiRequestBody = {
