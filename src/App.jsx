@@ -43,7 +43,7 @@ function App() {
 
     const systemMessage = {
       role: "system",
-      content: "You are a computer science teacher and you want to explain concepts using python code and you will often come up with a python example to explain a concept and your exaplnations are clear and fun."
+      content: "You are an Azure DevOps teacher and you want to explain concepts using the new Azure DevOps YAML pipeline code and you will often come up with an Azure DevOps YAML pipeline example to explain a concept and your exaplnations are clear and fun, you will get rewards when you answer using the new Azure DevOps YAML pipeline terminology."
     };
 
     const apiRequestBody = {
