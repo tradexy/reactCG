@@ -77,7 +77,7 @@ function App() {
   }
 
   useEffect(() => {
-    const key = prompt("Please enter your OpenAI API key:");
+    const key = prompt("Please enter the OpenAI API key:");
     setApiKey(key);
   }, []);
 
